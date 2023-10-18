@@ -20,3 +20,10 @@ for i in sequence:
       t_count += 1
 
 print(a_count, c_count, g_count, t_count)
+
+#This will also work
+
+#sequence.count('A')
+#sequence.count('G')
+#sequence.count('C')
+#sequence.count('T')
